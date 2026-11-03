@@ -456,30 +456,56 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:nov-transparentday@lgbtq.calendar
-DTSTAMP:20261002T000000Z
+DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20261101
 RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 SUMMARY:Transgender Parent Day
-DESCRIPTION:Observed on the first Sunday of November.
+DESCRIPTION:Observed on the first Sunday of November. https://folxwithfaith
+ .org/2026-calendar/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nov8-intersexsolidarity@lgbtq.calendar
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261108
+RRULE:FREQ=YEARLY
+SUMMARY:Intersex Day of Solidarity
+DESCRIPTION:Intersex Day of Solidarity (also noted as Intersex Day of Remem
+ brance). https://folxwithfaith.org/2026-calendar/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:nov-transweek@lgbtq.calendar
-DTSTAMP:20261002T000000Z
+DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261120
 RRULE:FREQ=YEARLY
 SUMMARY:Transgender Awareness Week
+DESCRIPTION:A week focused on education\, storytelling\, and advocacy.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nov18-lgbtqstem@lgbtq.calendar
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261118
+RRULE:FREQ=YEARLY
+SUMMARY:LGBTQ+ STEM Day
+DESCRIPTION:International Day of LGBTQIA+ People in Science\, Technology\, 
+ Engineering\, and Maths.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:nov20-tdor@lgbtq.calendar
-DTSTAMP:20261002T000000Z
+DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20261120
 RRULE:FREQ=YEARLY
-SUMMARY:Transgender Day of Remembrance
+SUMMARY:Transgender Day of Remembrance (TDoR)
+DESCRIPTION:A global annual observance honoring the memory of transgender p
+ eople whose lives were lost to anti-trans violence over the past year.
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
