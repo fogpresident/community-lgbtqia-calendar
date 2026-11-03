@@ -455,6 +455,18 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:nov-transmonth@lgbtq.calendar
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261201
+RRULE:FREQ=YEARLY
+SUMMARY:Transgender Awareness Month
+DESCRIPTION:Observed throughout November to celebrate transgender and nonbi
+ nary communities and raise awareness around trans advocacy.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:nov-transparentday@lgbtq.calendar
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20261101
